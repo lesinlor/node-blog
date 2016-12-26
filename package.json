@@ -4,6 +4,8 @@
   "description": "A blog running in node.js",
   "main": "index.js",
   "dependencies": {
+    "dev": "supervisor --harmony index",
+    "ejs": "2.5.5",
     "express": "4.14.0"
   },
   "devDependencies": {},
