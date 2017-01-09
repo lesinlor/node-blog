@@ -9,4 +9,8 @@
 
 # 原作者
 nswbmw
+
 https://github.com/nswbmw/N-blog/
+
+# 运行
+`$ npm run dev`
